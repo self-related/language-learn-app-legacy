@@ -1,6 +1,9 @@
 # Language learn app
 App for creating dictionaries and learning languages
 
+## Deployment:
+https://language-learn-app-legacy.vercel.app
+
 ## Features:
 - translate words/phrases using online translator API
 - choose suggested translations (if available)
